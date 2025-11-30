@@ -4,8 +4,8 @@ A full-stack web application for managing employee attendance with role-based ac
 
 ## 🚀 Live Demo
 
-- **Frontend:** [https://your-app.onrender.com](https://employeemanagementfrontend.onrender.com/)
-- **Backend API:** [https://your-api.onrender.com](https://employeeattendancemanagement.onrender.com/)
+- **Frontend:** [https://employeemanagementfrontend.onrender.com/](https://employeemanagementfrontend.onrender.com/)
+- **Backend API:** [https://employeeattendancemanagement.onrender.com/](https://employeeattendancemanagement.onrender.com/)
 
 ## 📋 Table of Contents
 
