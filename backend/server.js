@@ -12,7 +12,12 @@ const app = express();
 
 connectDB();
 
-app.use(cors());
+// ✅ UPDATED CORS
+app.use(cors({
+  origin: 'https://employeeattendancemaanagementfrontend.onrender.com',
+  credentials: true
+}));
+
 app.use(express.json());
 
 app.use('/api/auth', authRoutes);
