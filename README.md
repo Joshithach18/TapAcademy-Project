@@ -1,11 +1,11 @@
-# Employee Attendance System
+<img width="1920" height="1080" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/f400afb6-15e2-43e7-a5c9-1237654dd5dd" /><img width="1920" height="1080" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/b294c74c-f421-484a-a88c-b27925ad888f" /># Employee Attendance System
 
 A full-stack web application for managing employee attendance with role-based access control. Built with React, Redux Toolkit, Node.js, Express, and MongoDB.
 
 ## 🚀 Live Demo
 
-- **Frontend:** [https://your-app.onrender.com](https://your-app.onrender.com)
-- **Backend API:** [https://your-api.onrender.com](https://your-api.onrender.com)
+- **Frontend:** [https://your-app.onrender.com](https://employeemanagementfrontend.onrender.com/)
+- **Backend API:** [https://your-api.onrender.com](https://employeeattendancemanagement.onrender.com/)
 
 ## 📋 Table of Contents
 
@@ -126,8 +126,8 @@ employee-attendance-system/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/employee-attendance-system.git
-cd employee-attendance-system
+git clone https://github.com/Joshithach18/TapAcademy-Project.git
+cd TapAcademy-Project
 ```
 
 ### Backend Setup
@@ -296,28 +296,30 @@ Password: password123
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+<img width="1920" height="1080" alt="Screenshot (454)" src="https://github.com/user-attachments/assets/199ba51d-6096-4a95-8120-dbde8de3bfdb" />
+
 
 ### Employee Dashboard
-![Employee Dashboard](screenshots/employee-dashboard.png)
+<img width="1920" height="1080" alt="Screenshot (461)" src="https://github.com/user-attachments/assets/14690fe4-41d2-45b0-bb73-4c3019ed902b" />
 
 ### Mark Attendance
-![Mark Attendance](screenshots/mark-attendance.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c702b43-e4fb-4ad1-8e18-dd1296de3603" />
 
 ### Attendance History (Calendar View)
-![Attendance History](screenshots/attendance-history.png)
+<img width="1920" height="1080" alt="Screenshot (462)" src="https://github.com/user-attachments/assets/6a980463-384d-4ace-855b-4215f3ea53e0" />
 
 ### Manager Dashboard
-![Manager Dashboard](screenshots/manager-dashboard.png)
+<img width="1920" height="1080" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/76bbec05-ffb8-4a64-b04b-471dfa0c4231" />
 
 ### Team Calendar View
-![Team Calendar](screenshots/team-calendar.png)
+<img width="1920" height="1080" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/853efd47-9b75-4eec-be4d-0ed28c4ea0c7" />
 
 ### All Employees Attendance
-![All Attendance](screenshots/all-attendance.png)
+<img width="1920" height="1080" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/a27d0276-60b4-4793-8da1-929b07c7316e" />
 
 ### Export Reports
-![Reports](screenshots/reports.png)
+<img width="1920" height="1080" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/bea1830d-6d3a-4340-b514-9d7f2a2f5b6a" />
+<img width="1920" height="1080" alt="Screenshot (459)" src="https://github.com/user-attachments/assets/84167589-7166-4094-a7a7-51e7d23b8d88" />
 
 ## 📋 Features Implementation
 
@@ -417,7 +419,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+### Joshitha Chennamsetty
+### Vignan's LARA Institute of Technology and Science
+### Contact No: 6305286457
 
 ## 🙏 Acknowledgments
 
