@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/f400afb6-15e2-43e7-a5c9-1237654dd5dd" /><img width="1920" height="1080" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/b294c74c-f421-484a-a88c-b27925ad888f" /># Employee Attendance System
+# Employee Attendance System
 
 A full-stack web application for managing employee attendance with role-based access control. Built with React, Redux Toolkit, Node.js, Express, and MongoDB.
 
