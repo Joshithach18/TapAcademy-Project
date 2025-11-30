@@ -313,6 +313,7 @@ Password: password123
 
 ### Team Calendar View
 <img width="1920" height="1080" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/853efd47-9b75-4eec-be4d-0ed28c4ea0c7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4dd0f3b8-a1a3-4716-bf33-e64024273ccc" />
 
 ### All Employees Attendance
 <img width="1920" height="1080" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/a27d0276-60b4-4793-8da1-929b07c7316e" />
